@@ -1,2 +1,1 @@
-# yochan-app
-# yochan-heroku
+# Simple Robot game implemented on ReactJS and Flask as backend
